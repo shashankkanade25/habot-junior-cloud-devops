@@ -1,4 +1,4 @@
-iname: Poka-Yoke CI Gate
+name: Poka-Yoke CI Gate
 
 on:
   push:
