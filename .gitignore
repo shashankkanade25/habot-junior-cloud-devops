@@ -9,3 +9,14 @@
 *.json
 .env
 .env.*
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+
+# Secrets
+*.json
+.env
+.env.*
