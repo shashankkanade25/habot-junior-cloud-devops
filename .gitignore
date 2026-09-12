@@ -20,3 +20,7 @@ db.sqlite3
 *.json
 .env
 .env.*
+
+# Terraform generated plan
+*.tfplan
+tfplan
